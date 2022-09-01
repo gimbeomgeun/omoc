@@ -1,0 +1,5 @@
+﻿  소스.c
+\\DESKTOP-IRE4V45\학생들데이터(공유폴더)new\2.학생 저장자료(폴더안에 넣어서 저장할것, 다른 학생들 자료 삭제 절대 금물)\김범근\omok\omok\소스.c(71,2): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+\\DESKTOP-IRE4V45\학생들데이터(공유폴더)new\2.학생 저장자료(폴더안에 넣어서 저장할것, 다른 학생들 자료 삭제 절대 금물)\김범근\omok\omok\소스.c(35): warning C4716: 'create_area': 값을 반환해야 합니다.
+\\DESKTOP-IRE4V45\학생들데이터(공유폴더)new\2.학생 저장자료(폴더안에 넣어서 저장할것, 다른 학생들 자료 삭제 절대 금물)\김범근\omok\omok\소스.c(66): warning C4716: 'print_area': 값을 반환해야 합니다.
+  omok.vcxproj -> \\DESKTOP-IRE4V45\학생들데이터(공유폴더)new\2.학생 저장자료(폴더안에 넣어서 저장할것, 다른 학생들 자료 삭제 절대 금물)\김범근\omok\x64\Debug\omok.exe
